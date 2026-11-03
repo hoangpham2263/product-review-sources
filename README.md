@@ -1,18 +1,18 @@
 # Product Review Sources
 
-Nguồn ảnh của Product Review, chép từ thư mục `Tools Hub/Product Review/Nguồn ảnh/` trên Drive.
+Source images for Product Review, copied from the `Tools Hub/Product Review/Nguồn ảnh/` folder on Google Drive.
 
 ```text
 source-photos/
-├── catalog.json     catalog ảnh của app
-├── manifest.json    danh sách nhóm và file, kèm dung lượng, MD5, trạng thái bật/tắt
-└── <nhóm>/<ảnh>     mỗi nhóm một thư mục, giữ tên như trên Drive
+├── catalog.json     image catalog used by the app
+├── manifest.json    groups and files, with size, MD5 and enabled state
+└── <group>/<image>  one folder per group, named as on Drive
 ```
 
-Link ảnh:
+Image link:
 
 ```text
-https://raw.githubusercontent.com/hoangpham2263/product-review-sources/main/source-photos/<nhóm>/<ảnh>
+https://raw.githubusercontent.com/hoangpham2263/product-review-sources/main/source-photos/<group>/<image>
 ```
 
-Tên nhóm có dấu cần mã hoá URL khi gọi.
+Group names contain Vietnamese characters, so URL-encode them in requests.
