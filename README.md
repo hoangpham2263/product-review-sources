@@ -1,4 +1,4 @@
-# Vaniecom Product Review Sources
+# Product Review Sources
 
 Nguồn ảnh của Product Review, chép từ thư mục `Tools Hub/Product Review/Nguồn ảnh/` trên Drive.
 
@@ -12,7 +12,7 @@ source-photos/
 Link ảnh:
 
 ```text
-https://raw.githubusercontent.com/hoangpham2263/vaniecom-product-review-sources/main/source-photos/<nhóm>/<ảnh>
+https://raw.githubusercontent.com/hoangpham2263/product-review-sources/main/source-photos/<nhóm>/<ảnh>
 ```
 
 Tên nhóm có dấu cần mã hoá URL khi gọi.
