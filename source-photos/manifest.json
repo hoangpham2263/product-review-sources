@@ -7307,7 +7307,7 @@
   },
   {
    "name": "Cốc và bình",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "ee1df88c-a974-441a-9e62-79db7c193a4b.jpg",
@@ -11333,7 +11333,7 @@
   },
   {
    "name": "Đồ bếp",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "7dcb6b14-552b-433a-a306-a123a56b3bcb.jpg",
@@ -11417,7 +11417,7 @@
   },
   {
    "name": "Đồ lót",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "1d992e4d-a39a-44f0-b625-b79a3dd731d5.jpg",
@@ -11537,7 +11537,7 @@
   },
   {
    "name": "Đồ thú cưng",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "b0103abc-4418-47f2-be51-6dab9d624920.jpg",
@@ -11987,7 +11987,7 @@
   },
   {
    "name": "Đồng phục",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "44ca9c72-2560-4712-ae0d-60d66789049a.jpg",
@@ -12167,7 +12167,7 @@
   },
   {
    "name": "Mũ",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "967cf8f5-a479-4bcc-82fc-e9937677451f.jpg",
@@ -15767,7 +15767,7 @@
   },
   {
    "name": "Phụ kiện",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "0b596dba-9200-4f47-8691-5590166b800e.jpg",
@@ -16631,7 +16631,7 @@
   },
   {
    "name": "Quần đùi",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "751ea099-4a42-435f-89f0-d5e6c6330caa.jpg",
@@ -17051,7 +17051,7 @@
   },
   {
    "name": "Trang trí nhà cửa",
-   "enabled": false,
+   "enabled": true,
    "files": [
     {
      "name": "49f45637-04ad-4749-ad8b-f77201852abc.jpg",
