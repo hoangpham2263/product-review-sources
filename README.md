@@ -21,8 +21,8 @@ Group names contain Vietnamese characters, so URL-encode them in requests.
 
 ## Báo cáo tình hình kho ảnh (cập nhật 2026-11-26)
 
-- **Tổng số ảnh (`manifest.json` & cây thư mục):** **15.176 ảnh** (~**5163,2 MB**) thuộc **20 nhóm** (tất cả `enabled: true`)
-- **Tổng bản ghi `catalog.json`:** **14.812** (`review`: 14.768 · `customer_gallery`: 38 · `original`: 6 · `stock/listing/editorial`: **0**)
+- **Tổng số ảnh (`manifest.json` & cây thư mục):** **16.268 ảnh** (~**5600,0 MB**) thuộc **20 nhóm** (tất cả `enabled: true`)
+- **Tổng bản ghi `catalog.json`:** **15.904** (`review`: 15.860 · `customer_gallery`: 38 · `original`: 6 · `stock/listing/editorial`: **0**)
 - **Kiểm tra trùng lặp:** **0 trùng MD5** toàn repo · **0 trùng SHA-256** toàn `catalog.json`
 
 ### Thống kê theo nhóm & danh mục
@@ -35,39 +35,28 @@ Group names contain Vietnamese characters, so URL-encode them in requests.
 | **Cốc và bình** | **988** | 988 | 185,0 MB | `drinkware` (988) |
 | **Phụ kiện** | **703** | 703 | 248,9 MB | `jewelry` (315), `wallets-bags` (266), `keychains` (121), `neckties` (1) |
 | **Mũ** | **584** | 584 | 238,6 MB | `hats` (584) |
+| **Quần đùi** | **582** | 582 | 251,2 MB | `casual-shorts` (567), `hawaiian-beachwear` (15) |
 | **Giày dép** | **567** | 567 | 220,0 MB | `boots` (235), `sneakers` (233), `slippers` (51), `sandals-slides` (48) |
+| **Phụ kiện ô tô và xe máy** | **566** | 566 | 232,4 MB | `car-accessories` (227), `car-mats-covers` (198), `motorcycle-gear` (141) |
+| **Mẹ và bé - Đồ chơi** | **533** | 533 | 237,5 MB | `baby-gear` (286), `toys-plushies` (247) |
+| **Đồ bếp** | **529** | 529 | 216,3 MB | `kitchen-tools` (252), `cookware` (113), `cutting-boards` (110), `aprons` (41), `oven-mitts` (13) |
+| **Đồng phục** | **526** | 526 | 172,6 MB | `medical-scrubs` (526) |
+| **Văn phòng phẩm và học tập** | **522** | 522 | 205,6 MB | `notebooks-planners` (311), `pens-stationery` (170), `desk-organizers-mats` (41) |
 | **Thể thao ngoài trời** | **518** | 518 | 221,9 MB | `outdoor-sports` (518) |
 | **Đồ công nghệ và điện tử** | **510** | 510 | 163,0 MB | `keyboards-desk-tech` (187), `headphones-audio` (183), `gadgets-chargers` (74), `phone-watch-accessories` (66) |
+| **Quần dài và váy** | **510** | 510 | 157,2 MB | `dresses-skirts` (216), `pants-jeans` (185), `leggings-joggers` (109) |
 | **Đồ thú cưng** | **503** | 503 | 192,5 MB | `pet-collars-harnesses` (269), `pet-beds` (122), `pet-bowls` (84), `bandana` (19), `pet-food-mat` (9) |
-| **Quần dài và váy** | **488** | 488 | 148,5 MB | `dresses-skirts` (194), `pants-jeans` (185), `leggings-joggers` (109) |
-| **Văn phòng phẩm và học tập** | **486** | 486 | 193,0 MB | `notebooks-planners` (275), `pens-stationery` (170), `desk-organizers-mats` (41) |
-| **Đồ bếp** | **465** | 465 | 193,8 MB | `kitchen-tools` (237), `cookware` (94), `cutting-boards` (80), `aprons` (41), `oven-mitts` (13) |
-| **Mẹ và bé - Đồ chơi** | **445** | 445 | 201,5 MB | `baby-gear` (239), `toys-plushies` (206) |
-| **Làm đẹp và chăm sóc cá nhân** | **443** | 443 | 141,3 MB | `fragrance-perfume` (196), `makeup-brushes` (137), `skincare-serums` (59), `hair-tools` (51) |
-| **Phụ kiện ô tô và xe máy** | **401** | 401 | 158,6 MB | `car-accessories` (163), `car-mats-covers` (128), `motorcycle-gear` (110) |
-| **Đồng phục** | **398** | 398 | 137,5 MB | `medical-scrubs` (398) |
-| **Sân vườn và ngoài trời** | **362** | 362 | 196,6 MB | `garden-planters` (177), `patio-furniture` (112), `solar-lights-decor` (73) |
-| **Quần đùi** | **347** | 347 | 152,8 MB | `casual-shorts` (332), `hawaiian-beachwear` (15) |
-| **Đồ lót** | **173** | 173 | 48,4 MB | `underwear` (173) |
-| **Tổng cộng** | **15.176** | **14.812** | **5163,2 MB** | |
+| **Sân vườn và ngoài trời** | **503** | 503 | 275,7 MB | `garden-planters` (257), `patio-furniture` (161), `solar-lights-decor` (85) |
+| **Làm đẹp và chăm sóc cá nhân** | **477** | 477 | 151,1 MB | `fragrance-perfume` (207), `makeup-brushes` (146), `skincare-serums` (73), `hair-tools` (51) |
+| **Đồ lót** | **352** | 352 | 109,3 MB | `underwear` (352) |
+| **Tổng cộng** | **16.268** | **15.904** | **5600,0 MB** | |
 
 ### Nhật ký cập nhật
 
+- **Đợt 12 + 12B (2026-11-26 · +1.092 ảnh mới — nâng chuẩn min 500/nhóm):**
+  - Đẩy vượt 500+ thêm 8 nhóm: `Quần đùi` (+235), `Phụ kiện ô tô và xe máy` (+165), `Sân vườn và ngoài trời` (+141), `Đồng phục` (+128), `Mẹ và bé - Đồ chơi` (+88), `Đồ bếp` (+64), `Văn phòng phẩm và học tập` (+36), `Quần dài và váy` (+22), cùng `Đồ lót` (+179, 100% ảnh phẳng/nguyên hộp sạch) và `Làm đẹp và chăm sóc cá nhân` (+34).
 - **Đợt 11 + 11B (2026-11-26 · +2.140 ảnh mới — hoàn thiện đủ 20 nhóm lớn & vượt mốc 15.000+ ảnh):**
-  - Mở mới 4 nhóm cuối: `Văn phòng phẩm và học tập` (+486), `Mẹ và bé - Đồ chơi` (+445), `Phụ kiện ô tô và xe máy` (+401), `Sân vườn và ngoài trời` (+362), đồng thời bồi thêm `Giày dép` (+125), `Đồ công nghệ và điện tử` (+117), `Quần dài và váy` (+102), `Làm đẹp và chăm sóc cá nhân` (+66), `Đồ lót` (+36).
-- **Đợt 10 (2026-11-26 · +1.395 ảnh mới — mở thêm 3 nhóm lớn & bồi nhóm Làm đẹp):**
-  - Mở mới `Giày dép` (+442), `Đồ công nghệ và điện tử` (+393), `Quần dài và váy` (+386), và bổ sung `Làm đẹp và chăm sóc cá nhân` (+174).
-- **Đợt 9 + 9B (2026-11-26 · +1.394 ảnh mới — bơm đầy các mục mỏng & mở nhóm Làm đẹp):**
-  - Bơm mạnh `Đồng phục` (+281), `Làm đẹp và chăm sóc cá nhân` (+203), `Áo :: team-jerseys` (+195), `Mũ` (+174), `Quần đùi` (+131), `Thể thao ngoài trời` (+131), `Đồ lót` (+114, 100% ảnh phẳng/hộp sạch), `Đồ bếp` (+95), `Trang trí nhà cửa` (+70).
-- **Đợt 8 (2026-11-26 · +1.294 ảnh mới phủ rộng 10 nhóm — vượt mốc 10.000+ ảnh):**
-  - Bổ sung mạnh `Phụ kiện` (+222), `Nội thất` (+195), `Áo` (+172), `Trang trí nhà cửa` (+121), `Mũ` (+112), `Cốc và bình` (+104), `Đồ thú cưng` (+101), `Thể thao ngoài trời` (+94), `Đồ bếp` (+92), `Quần đùi` (+81).
-- **Đợt 7 (2026-11-26 · +1.396 ảnh mới phủ rộng 10 nhóm):**
-  - Bổ sung mạnh `Trang trí nhà cửa` (+236), `Phụ kiện` (+223), `Đồ thú cưng` (+183), `Nội thất` (+169), `Cốc và bình` (+146), `Đồ bếp` (+115), `Áo` (+111), `Thể thao ngoài trời` (+105), `Mũ` (+82), `Quần đùi` (+26).
-- **Đợt 6 (2026-11-26 · +944 ảnh mới phủ rộng 10 nhóm):**
-  - Đẩy vượt mốc 100+ ảnh cho các nhóm từng mỏng nhất: `Đồng phục` (+95), `Quần đùi` (+82), `Mũ` (+89), `Thể thao ngoài trời` (+81), `Đồ thú cưng` (+100).
-- **Đợt 5 + 5B (2026-11-26 · +1.093 ảnh mới phủ rộng 9 nhóm):**
-  - Bổ sung mạnh `Nội thất` (+460), `Áo` (+183), `Phụ kiện` (+115), `Đồ bếp` (+110), `Mũ` (+100), `Thể thao ngoài trời` (+61), `Đồ thú cưng` (+44), `Quần đùi` (+16), `Đồ lót` (+4).
-- **Đợt 4 + 4B (2026-11-26 · +727 ảnh mới, dọn -344 ảnh lỗi cũ):**
-  - Bổ sung ngách `Nội thất` & `Áo :: polo-shirts`, và soi sạch toàn bộ 1.597 ảnh cũ ở `Áo`, `Thể thao ngoài trời`, `Đồng phục` để gỡ 344 ảnh lỗi.
-- **Đợt 1–3 (2026-11-25 · +1.457 ảnh mới, dọn -234 ảnh, chuyển 1 ảnh):**
-  - Kiểm trùng 4 lớp (URL, `review_id`, MD5/SHA-256, pHash) và duyệt trực quan contact sheet, loại sạch 52 ảnh stock/editorial Pexels và 54 ảnh trùng cũ.
+  - Mở mới 4 nhóm cuối: `Văn phòng phẩm và học tập` (+486), `Mẹ và bé - Đồ chơi` (+445), `Phụ kiện ô tô và xe máy` (+401), `Sân vườn và ngoài trời` (+362), bồi thêm `Giày dép` (+125), `Đồ công nghệ` (+117), `Quần dài và váy` (+102), `Làm đẹp` (+66), `Đồ lót` (+36).
+- **Đợt 10 (2026-11-26 · +1.395 ảnh mới):** Mở mới `Giày dép` (+442), `Đồ công nghệ và điện tử` (+393), `Quần dài và váy` (+386), bồi `Làm đẹp` (+174).
+- **Đợt 9 + 9B (2026-11-26 · +1.394 ảnh mới):** Bơm đầy các mục mỏng & mở mới `Làm đẹp và chăm sóc cá nhân`.
+- **Đợt 1–8 (2026-11-25 – 2026-11-26):** Xây nền 10.247 ảnh sạch trên 12 nhóm ban đầu, 0 trùng MD5/SHA-256/pHash.
