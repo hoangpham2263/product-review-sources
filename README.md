@@ -21,30 +21,32 @@ Group names contain Vietnamese characters, so URL-encode them in requests.
 
 ## Báo cáo tình hình kho ảnh (cập nhật 2026-11-26)
 
-- **Tổng số ảnh (`manifest.json` & cây thư mục):** **8.953 ảnh** (~**2718,3 MB**) thuộc **12 nhóm** (tất cả `enabled: true`)
-- **Tổng bản ghi `catalog.json`:** **8.589** (`review`: 8.545 · `customer_gallery`: 38 · `original`: 6 · `stock/listing/editorial`: **0**)
+- **Tổng số ảnh (`manifest.json` & cây thư mục):** **10.247 ảnh** (~**3209,1 MB**) thuộc **12 nhóm** (tất cả `enabled: true`)
+- **Tổng bản ghi `catalog.json`:** **9.883** (`review`: 9.839 · `customer_gallery`: 38 · `original`: 6 · `stock/listing/editorial`: **0**)
 - **Kiểm tra trùng lặp:** **0 trùng MD5** toàn repo · **0 trùng SHA-256** toàn `catalog.json`
 
 ### Thống kê theo nhóm & danh mục
 
 | Nhóm (`source_group`) | Số ảnh | Trong `catalog.json` | Dung lượng | Chi tiết danh mục (`category`) |
 | --- | ---: | ---: | ---: | --- |
-| **Nội thất** | **3.118** | 2,754 *(364 ảnh cũ chưa có catalog)* | 1010,5 MB | `dining-tables` (306), `wall-neon` (284), `chairs` (248), `bookshelves` (173), `side-tables` (169), `table-lamps` (150), `coffee-tables` (136), `desks` (135), `cabinets` (129), `sofas` (125), `rugs` (118), `media-consoles` (115), `floor-lamps` (111), `sideboards` (99), `beds` (87), `ceiling-lights` (87), `console-tables` (83), `mirrors` (72), `dressers` (67), `ottomans` (60) |
-| **Áo** | **1.781** | 1,781 | 530,3 MB | `tees-hoodies` (1511), `polo-shirts` (258), `team-jerseys` (12) |
-| **Trang trí nhà cửa** | **1.143** | 1,143 | 279,9 MB | `ornaments` (254), `garden-flag` (215), `canvas` (192), `pillows` (166), `blankets` (131), `home-decor` (88), `doormats` (79), `posters` (9), `memorial-stone` (6), `acrylic-plaque` (3) |
-| **Cốc và bình** | **884** | 884 | 141,0 MB | `drinkware` (884) |
-| **Phụ kiện** | **481** | 481 | 160,8 MB | `jewelry` (207), `wallets-bags` (156), `keychains` (117), `neckties` (1) |
-| **Đồ thú cưng** | **402** | 402 | 159,0 MB | `pet-collars-harnesses` (170), `pet-beds` (120), `pet-bowls` (84), `bandana` (19), `pet-food-mat` (9) |
-| **Mũ** | **298** | 298 | 119,6 MB | `hats` (298) |
-| **Thể thao ngoài trời** | **293** | 293 | 126,2 MB | `outdoor-sports` (293) |
-| **Đồ bếp** | **278** | 278 | 101,7 MB | `cookware` (94), `kitchen-tools` (84), `cutting-boards` (76), `oven-mitts` (13), `aprons` (11) |
-| **Quần đùi** | **135** | 135 | 47,3 MB | `casual-shorts` (120), `hawaiian-beachwear` (15) |
+| **Nội thất** | **3.313** | 2,949 *(364 ảnh cũ chưa có catalog)* | 1074,1 MB | `dining-tables` (327), `wall-neon` (284), `chairs` (261), `bookshelves` (207), `table-lamps` (200), `side-tables` (169), `rugs` (160), `coffee-tables` (136), `desks` (135), `cabinets` (129), `sofas` (125), `sideboards` (117), `media-consoles` (115), `floor-lamps` (111), `mirrors` (89), `beds` (87), `ceiling-lights` (87), `console-tables` (83), `dressers` (67), `ottomans` (60) |
+| **Áo** | **1.953** | 1,953 | 591,1 MB | `tees-hoodies` (1682), `polo-shirts` (259), `team-jerseys` (12) |
+| **Trang trí nhà cửa** | **1.264** | 1,264 | 330,5 MB | `ornaments` (254), `pillows` (241), `garden-flag` (215), `canvas` (194), `blankets` (175), `home-decor` (88), `doormats` (79), `posters` (9), `memorial-stone` (6), `acrylic-plaque` (3) |
+| **Cốc và bình** | **988** | 988 | 185,0 MB | `drinkware` (988) |
+| **Phụ kiện** | **703** | 703 | 248,9 MB | `jewelry` (315), `wallets-bags` (266), `keychains` (121), `neckties` (1) |
+| **Đồ thú cưng** | **503** | 503 | 192,5 MB | `pet-collars-harnesses` (269), `pet-beds` (122), `pet-bowls` (84), `bandana` (19), `pet-food-mat` (9) |
+| **Mũ** | **410** | 410 | 172,2 MB | `hats` (410) |
+| **Thể thao ngoài trời** | **387** | 387 | 159,3 MB | `outdoor-sports` (387) |
+| **Đồ bếp** | **370** | 370 | 126,6 MB | `kitchen-tools` (172), `cookware` (94), `cutting-boards` (80), `oven-mitts` (13), `aprons` (11) |
+| **Quần đùi** | **216** | 216 | 86,8 MB | `casual-shorts` (201), `hawaiian-beachwear` (15) |
 | **Đồng phục** | **117** | 117 | 38,2 MB | `medical-scrubs` (117) |
 | **Đồ lót** | **23** | 23 | 3,9 MB | `underwear` (23) |
-| **Tổng cộng** | **8.953** | **8.589** | **2718,3 MB** | |
+| **Tổng cộng** | **10.247** | **9.883** | **3209,1 MB** | |
 
 ### Nhật ký cập nhật
 
+- **Đợt 8 (2026-11-26 · +1.294 ảnh mới phủ rộng 10 nhóm — vượt mốc 10.000+ ảnh):**
+  - Bổ sung mạnh `Phụ kiện` (+222), `Nội thất` (+195), `Áo` (+172), `Trang trí nhà cửa` (+121), `Mũ` (+112), `Cốc và bình` (+104), `Đồ thú cưng` (+101), `Thể thao ngoài trời` (+94), `Đồ bếp` (+92), `Quần đùi` (+81) từ các shop Judge.me mới, ưu tiên ảnh nhận hàng/chưa khui.
 - **Đợt 7 (2026-11-26 · +1.396 ảnh mới phủ rộng 10 nhóm):**
   - Bổ sung mạnh `Trang trí nhà cửa` (+236), `Phụ kiện` (+223), `Đồ thú cưng` (+183), `Nội thất` (+169), `Cốc và bình` (+146), `Đồ bếp` (+115), `Áo` (+111), `Thể thao ngoài trời` (+105), `Mũ` (+82), `Quần đùi` (+26) ưu tiên ảnh nhận hàng/chưa khui.
 - **Đợt 6 (2026-11-26 · +944 ảnh mới phủ rộng 10 nhóm):**
